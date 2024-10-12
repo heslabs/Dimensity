@@ -8,7 +8,7 @@ https://www.youtube.com/live/mVvSMxZmiak?si=m7h5GUq8zhNZ6IJn
 Arm Cortex-X925 + Arm Immortalis-G925 @ TSMC 3nm (2nd Gen)
 
 ---
-###【一文看懂】地表最強AI晶片 聯發科天璣9400 50 Tokens輾壓蘋果
+### 地表最強AI晶片 聯發科天璣9400 50 Tokens輾壓蘋果
 2024年10月9日
 https://ynews.page.link/GmfDK 
 
