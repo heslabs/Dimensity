@@ -3,9 +3,16 @@
 ---
 
 * 聯發科技天璣旗艦產品發表會
-  * Mediatek Launched flagship smartphone chipset Dimensity 9400 today at Shenzhen
+* Mediatek Dimensity 9400 Launch Event 2024
   * https://www.youtube.com/live/mVvSMxZmiak?si=m7h5GUq8zhNZ6IJn
   * Arm Cortex-X925 + Arm Immortalis-G925 @ TSMC 3nm (2nd Gen)
+
+* vivo X200 Series Product Launch Event 2024
+  * https://www.youtube.com/watch?v=q5NiIcJbDII
+
+* How Arm is Boosting AI and Performance in vivo’s X200 Series
+  * https://www.youtube.com/watch?v=dJ0bDmFYxyM&t=59s
+
 * 地表最強AI晶片 聯發科天璣9400 50 Tokens輾壓蘋果 (2024年10月9日)
     * https://ynews.page.link/GmfDK 
 * MediaTek Dimensity 9400 optimized for Google Gemini Nano with Multimodality
